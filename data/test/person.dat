@@ -1,8 +1,0 @@
-person
-./data/test/person.dat
-id
-0
-id name ;
-int string ;
-2 Bob ;
-3 Curry ;
