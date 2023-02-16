@@ -2,5 +2,4 @@
 .vscode/
 *.dSYM
 MiniSQL
-data/*/
-!data/
+data/
